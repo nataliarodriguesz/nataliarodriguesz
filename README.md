@@ -21,11 +21,11 @@ Atualmente sou estudante de Engenharia de Software e atuo como estagiária na á
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
 <div align="center">
   <!-- JAVA -->       <img src="https://img.shields.io/badge/Java-5F6368?style=for-the-badge&logo=openjdk&logoColor=ffffff">
+  <!-- C -->          <img src="https://img.shields.io/badge/C-5C7A99?style=for-the-badge&logo=c&logoColor=ffffff">
+  <!-- Git -->        <img src="https://img.shields.io/badge/Git-8A5A52?style=for-the-badge&logo=git&logoColor=ffffff">
   <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-6E8B7B?style=for-the-badge&logo=javascript&logoColor=ffffff">
   <!-- HTML5 -->      <img src="https://img.shields.io/badge/HTML5-A86552?style=for-the-badge&logo=html5&logoColor=ffffff">
   <!-- CSS3 -->       <img src="https://img.shields.io/badge/CSS3-4E6FA8?style=for-the-badge&logo=css&logoColor=white">
-  <!-- C -->          <img src="https://img.shields.io/badge/C-5C7A99?style=for-the-badge&logo=c&logoColor=ffffff">
-  <!-- Git -->        <img src="https://img.shields.io/badge/Git-8A5A52?style=for-the-badge&logo=git&logoColor=ffffff">
 
   
   <br>
