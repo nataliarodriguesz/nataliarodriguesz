@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/andreinaoliveira">
-    <img align="center" src="intro.gif" width="420">
+  <a href="https://github.com/nataliarodriguesz">
+    <img src="intro.gif" width="420"/>
   </a>
 </div>
 
