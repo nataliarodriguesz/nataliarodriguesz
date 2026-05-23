@@ -15,7 +15,7 @@
 
 Tenho interesse por lógica, organização e resolução de problemas, o que despertou minha paixão pela programação e pelo desenvolvimento de software.
 
-Atualmente sou estudante de Engenharia de Software e atuo como estagiária na área de tecnologia, buscando constantemente evoluir por meio de cursos, estudos e projetos práticos. Aqui compartilho projetos, exercícios e aplicações que acompanham minha trajetória e evolução profissional..
+Atualmente sou estudante de Engenharia de Software e atuo como estagiária na área de tecnologia, buscando constantemente evoluir por meio de cursos, estudos e projetos práticos. Aqui compartilho projetos, exercícios e aplicações que acompanham minha trajetória e evolução profissional.
 
 ## ⭐️ Hard Skills
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
